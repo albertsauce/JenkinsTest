@@ -15,7 +15,7 @@ import sys
 #importing the Appium Python bindings for Selenium Webdriver from the python Appium module.
 from appium import webdriver
 #importing the Selenium Python bindings for Selenium Webdriver from the python Selenium module.
-from selenium import webdriver
+# from selenium import webdriver
 #importing  the sauceclient which is a Python client library, used for accessing the Sauce Labs REST API to retrieve and update information about resources. 
 import sauceclient
 import json
