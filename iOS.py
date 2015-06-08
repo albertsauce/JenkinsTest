@@ -12,6 +12,8 @@ import time
 import os
 #importing the sys module which provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
 import sys
+
+import appium
 #importing the Appium Python bindings for Selenium Webdriver from the python Appium module.
 from appium import webdriver
 #importing the Selenium Python bindings for Selenium Webdriver from the python Selenium module.
